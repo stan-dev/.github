@@ -11,7 +11,7 @@ Users specify log density functions in Stan's probabilistic [programming languag
 * penalized maximum likelihood estimation with optimization (L-BFGS)
 
 Stan's [math library](https://github.com/stan-dev/math) provides differentiable probability functions & linear algebra (C++ autodiff).
-Additional R packages provide [expression-based linear modeling](https://github.com/stan-dev/rstanarm), (posterior visualization)[https://github.com/stan-dev/bayesplot], and [leave-one-out cross-validation](https://github.com/stan-dev/loo).
+Additional R packages provide [easy formula syntax to specify linear and generalized linear hierarchical models](https://github.com/stan-dev/rstanarm), [posterior visualization](https://github.com/stan-dev/bayesplot), and [leave-one-out cross-validation](https://github.com/stan-dev/loo).
 
 ## Get Started
 
@@ -22,11 +22,13 @@ To get started using Stan begin with the [Installation](https://mc-stan.org/user
 
 Stan is an active and open developer community. The `help-wanted` and `good-first-issue` labels in our repositories try to highlight good places to get started, and we're happy to help more on our [forums or Slack](https://mc-stan.org/developers/).
 
-We have projects in C++, Python, R, OCaml, and more. If you want to help build future versions of Stan, we want to help you get started.
+We have projects in C++, Python, R, OCaml, and more.
+If you want to help build future versions of Stan, we want to help you get started.
 
 ## Citing Stan
 
-We appreciate citations for the Stan software because it lets us find out what people have been doing with Stan and motivate further grant funding. See [How to Cite Stan](https://mc-stan.org/users/citations/) for more details.
+We appreciate citations for the Stan software because it lets us find out what people have been doing with Stan and motivate further grant funding.
+See [How to Cite Stan](https://mc-stan.org/users/citations/) for more details.
 
 ## Open Code & Reproducible Science
 
