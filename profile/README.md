@@ -6,7 +6,7 @@ Users specify log density functions in Stan's probabilistic [programming languag
 
 * full Bayesian statistical inference with MCMC sampling (NUTS, HMC)
 
-* approximate Bayesian inference with variational inference (ADVI)
+* approximate Bayesian inference with variational inference (ADVI, Pathfinder)
 
 * penalized maximum likelihood estimation with optimization (L-BFGS)
 
