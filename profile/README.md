@@ -34,5 +34,5 @@ See [How to Cite Stan](https://mc-stan.org/users/citations/) for more details.
 
 Stan is freedom-respecting, open-source software (new BSD core, some interfaces GPLv3). Stan is associated with NumFOCUS, a 501(c)(3) nonprofit supporting open code and reproducible science, through which you can [help support Stan](https://mc-stan.org/support/).
 
-<p align="center"><a href="http://numfocus.org"><img width="200" src="https://mc-stan.org/images/numfocus.png" /></a>
+<p align="center"><a href="http://numfocus.org"><img width="200" src="https://numfocus.org/wp-content/uploads/2017/03/numfocusweblogo_orig-1.png" /></a>
 </p>
