@@ -20,7 +20,7 @@ To get started using Stan begin with the [Installation](https://mc-stan.org/user
 
 ## Helping Out
 
-Stan is an active and open developer community. The `help-wanted` and `good-first-issue` labels in our repositories try to highlight good places to get started, and we're happy to help more on our [forums or Slack](https://mc-stan.org/developers/).
+Stan is an active and open developer community. The `help-wanted` and `good-first-issue` labels in our repositories try to highlight good places to get started, and we're happy to help more on our [forums](https://discourse.mc-stan.org) or [Slack](https://join.slack.com/t/mc-stan/shared_invite/zt-1le4ebi4m-UMtiOkJb4gcS16qz2wIYCw).
 
 We have projects in C++, Python, R, OCaml, and more.
 If you want to help build future versions of Stan, we want to help you get started.
